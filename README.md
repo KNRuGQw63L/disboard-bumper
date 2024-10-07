@@ -13,7 +13,7 @@
 4. Go in the extracted folder and open the start.bat file
 
 5. Enjoy! 
- 
+  
 Line 8 = Prefix 
 
 Line 10 = token 

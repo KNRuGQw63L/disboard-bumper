@@ -3,7 +3,7 @@
 ## Simple bumper for discord with random time integers so your disboard account doesnt get flagged
 
 # Guide on how to use these tool
-
+ 
 1. Install Python from
 
 2. Download the repo as a ZIP

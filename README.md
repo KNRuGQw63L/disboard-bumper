@@ -1,6 +1,6 @@
 #Disboard Bumper  
   
-## Simple bumper for discord with random time integers so your disboard account doesnt get flagged  
+## Simple bumper for discord with random time integers so your disboard account doesnt get flagged   
    
 # Guide on how to use these tool     
    
